@@ -215,7 +215,7 @@ a:active, a:visited, a:link
   transform: translate(-50%,-50%);
   height: auto;
   width: 80%;
-  box-shadow: 0 0 0 100vh rgba(0,0,0,.7);
+  box-shadow: 3px 3px 5px black;
   z-index: 1;
 }
 .videocontainer .video .active:hover {
