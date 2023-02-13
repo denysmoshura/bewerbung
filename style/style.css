@@ -387,8 +387,8 @@ grid-column: 1 / 2;
   flex-wrap: wrap;
 }
 .videocontainer .video {
-  height: 8rem;
-  width: 16rem;
+  height: 12rem;
+  width: 22rem;
   margin: 2rem;
   overflow: hidden;
   border-radius: 1rem;
