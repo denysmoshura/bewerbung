@@ -116,6 +116,7 @@
   grid-row: 4 / 5;
   text-align: justify;
   hyphens: auto;
+  padding-bottom: 5%;
   }
 #uberschrift_webdesign {
   grid-column: 1 / 2;
